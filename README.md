@@ -1,4 +1,7 @@
 ### Hi there 👋
+열공하는 중
+Concentration
+集中
 
 <!--
 **Ehlesweet/Ehlesweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ...
 -->
+
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat&logo=1877f2&logoColor=1877f2"/></a>
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ehlesweet&show_icons=true&theme=radical)
+-->
