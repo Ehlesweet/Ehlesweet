@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat&logo=1877f2&logoColor=1877f2"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EhlesweetID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eEhlesweetID&show_icons=true&theme=radical)
