@@ -1,7 +1,7 @@
 ### Hi there 👋
-열공하는 중
-Concentration
-集中
+<p>열공하는 중</p>
+<p>Concentration</p>
+<p>集中</p>
 
 <!--
 **Ehlesweet/Ehlesweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
